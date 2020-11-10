@@ -6,7 +6,7 @@
 
 - 🔭 I’m interested in Data Science, Machine learning.
 - 🌱 I’m currently learning the math behind Deep learning models.
-- 👯 I’m looking to collaborate on Data driven projects.
+- 👯 I’m looking to collaborate on data driven projects.
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: Data Science is nothing but story telling!
 - 📫 How to reach me: 
