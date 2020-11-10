@@ -4,14 +4,12 @@
 **SiddhanthNB/SiddhanthNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Math behind Deep learning 
-- 🌱 I’m currently learning Data Science, Machine learning, Deep learning
-- 👯 I’m looking to collaborate on Data driven projects
-- 😄 Pronouns: He/him
+- 🔭 I’m currently into Data Science, Machine learning. 
+- 🌱 I’m currently learning the math behind Deep learning models.
+- 👯 I’m looking to collaborate on Data driven projects.
+- 😄 Pronouns: He/him.
 - ⚡ Fun fact: Data Science is nothing but story telling!
-
-
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
