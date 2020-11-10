@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin]
+
+
+
+[website]: https://siddhanthnb.github.io/DataScience-Portfolio/
+[twitter]: https://twitter.com/SiddhanthNB
+[linkedin]: https://www.linkedin.com/in/siddhanth-nagendra-bhimakari/
