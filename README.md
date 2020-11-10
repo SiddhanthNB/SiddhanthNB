@@ -11,11 +11,13 @@
 - ⚡ Fun fact: Data Science is nothing but story telling!
 - 📫 How to reach me: 
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|** 
+✉️ [mail][mail] **|**
+🐦 [twitter][twitter]
 
 
 
 [website]: https://siddhanthnb.github.io/DataScience-Portfolio/
 [twitter]: https://twitter.com/SiddhanthNB
 [linkedin]: https://www.linkedin.com/in/siddhanth-nagendra-bhimakari/
+[mail]: mailto:siddhanth.n.b@gmail.com
