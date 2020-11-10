@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi, I'm Siddhanth 👋
 
 <!--
 **SiddhanthNB/SiddhanthNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently into Data Science, Machine learning. 
+- 🔭 I’m interested in Data Science, Machine learning.
 - 🌱 I’m currently learning the math behind Deep learning models.
 - 👯 I’m looking to collaborate on Data driven projects.
 - 😄 Pronouns: He/him.
