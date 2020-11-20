@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning the math behind Deep learning models.
 - 👯 I’m looking to collaborate on data driven projects.
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: Data Science is nothing but story telling!
+- ⚡ Fun fact: Data Science is nothing but story telling and i looove stories!
 - 📫 How to reach me: 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin] **|** 
