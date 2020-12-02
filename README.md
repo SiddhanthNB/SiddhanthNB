@@ -1,11 +1,5 @@
-### Hi, I'm Siddhanth 👋
----
+## Hi, I'm Siddhanth 👋
 <img align='right' src="https://github.com/SiddhanthNB/DataScience-Portfolio/raw/master/Assests/Images/419-4198380-png-transparent-png.png" width="240">
-
-
-<!--
-**SiddhanthNB/SiddhanthNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 - 🔭 I’m interested in Data Science, Machine learning.
 - 🌱 I’m currently learning the math behind Deep learning models.
