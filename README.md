@@ -1,4 +1,5 @@
 ### Hi, I'm Siddhanth 👋
+---
 <img align='right' src="https://github.com/SiddhanthNB/DataScience-Portfolio/raw/master/Assests/Images/419-4198380-png-transparent-png.png" width="240">
 
 
